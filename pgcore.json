@@ -684,11 +684,11 @@
     },
     "lineHeight": {
       "0": {
-        "value": "60",
+        "value": "0",
         "type": "lineHeights"
       },
       "1": {
-        "value": "56",
+        "value": "100",
         "type": "lineHeights"
       },
       "2": {
