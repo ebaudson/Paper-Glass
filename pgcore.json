@@ -1437,71 +1437,71 @@
             },
             "typescale": {
               "label": {
-                "s": {
+                "sm": {
                   "value": "0.624rem",
                   "type": "dimension"
                 },
-                "m": {
+                "md": {
                   "value": "0.702rem",
                   "type": "dimension"
                 },
-                "l": {
+                "lg": {
                   "value": "0.79rem",
                   "type": "dimension"
                 }
               },
               "body": {
-                "s": {
+                "sm": {
                   "value": "0.889rem",
                   "type": "dimension"
                 },
-                "m": {
+                "md": {
                   "value": "1rem",
                   "type": "dimension"
                 },
-                "l": {
+                "lg": {
                   "value": "1.125rem",
                   "type": "dimension"
                 }
               },
               "title": {
-                "s": {
+                "sm": {
                   "value": "1.266rem",
                   "type": "dimension"
                 },
-                "m": {
+                "md": {
                   "value": "1.424rem",
                   "type": "dimension"
                 },
-                "l": {
+                "lg": {
                   "value": "1.602rem",
                   "type": "dimension"
                 }
               },
               "display": {
-                "s": {
+                "sm": {
                   "value": "2.566rem",
                   "type": "dimension"
                 },
-                "m": {
+                "md": {
                   "value": "2.887rem",
                   "type": "dimension"
                 },
-                "l": {
+                "lg": {
                   "value": "3.247rem",
                   "type": "dimension"
                 }
               },
               "headline": {
-                "s": {
+                "sm": {
                   "value": "1.802rem",
                   "type": "dimension"
                 },
-                "m": {
+                "md": {
                   "value": "2.027rem",
                   "type": "dimension"
                 },
-                "l": {
+                "lg": {
                   "value": "2.281rem",
                   "type": "dimension"
                 }
