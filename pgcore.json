@@ -816,8 +816,8 @@
               "lineHeight": "{pgType.lineHeight.0}",
               "fontSize": "{dimension.typescale.display.lg}",
               "letterSpacing": "{pgType.letterSpacing.0}",
-              "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphSpacing": "{dimension.px.0}",
+              "paragraphIndent": "pgType.paragraphSpacing.0",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -831,7 +831,7 @@
               "fontSize": "{dimension.typescale.display.md}",
               "letterSpacing": "{pgType.letterSpacing.1}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -845,7 +845,7 @@
               "fontSize": "{dimension.typescale.display.sm}",
               "letterSpacing": "{pgType.letterSpacing.1}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -861,7 +861,7 @@
               "fontSize": "{dimension.typescale.headline.lg}",
               "letterSpacing": "{pgType.letterSpacing.1}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -875,7 +875,7 @@
               "fontSize": "{dimension.typescale.headline.md}",
               "letterSpacing": "{pgType.letterSpacing.1}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -889,7 +889,7 @@
               "fontSize": "{dimension.typescale.headline.sm}",
               "letterSpacing": "{pgType.letterSpacing.1}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -905,7 +905,7 @@
               "fontSize": "{dimension.typescale.title.lg}",
               "letterSpacing": "{pgType.letterSpacing.2}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -919,7 +919,7 @@
               "fontSize": "{dimension.typescale.title.md}",
               "letterSpacing": "{pgType.letterSpacing.2}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -933,7 +933,7 @@
               "fontSize": "{dimension.typescale.title.sm}",
               "letterSpacing": "{pgType.letterSpacing.2}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -950,7 +950,7 @@
                 "fontSize": "{dimension.typescale.body.lg}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -964,7 +964,7 @@
                 "fontSize": "{dimension.typescale.body.md}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -978,7 +978,7 @@
                 "fontSize": "{dimension.typescale.body.sm}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -994,7 +994,7 @@
                 "fontSize": "{dimension.typescale.body.lg}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -1008,7 +1008,7 @@
                 "fontSize": "{dimension.typescale.body.md}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -1022,7 +1022,7 @@
                 "fontSize": "{dimension.typescale.body.sm}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -1038,7 +1038,7 @@
                 "fontSize": "{dimension.typescale.body.lg}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -1052,7 +1052,7 @@
                 "fontSize": "{dimension.typescale.body.md}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -1066,7 +1066,7 @@
                 "fontSize": "{dimension.typescale.body.sm}",
                 "letterSpacing": "{pgType.letterSpacing.3}",
                 "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-                "paragraphIndent": "{paragraphIndent.0}",
+                "paragraphIndent": "{dimension.px.0}",
                 "textCase": "{pgType.textCase.none}",
                 "textDecoration": "{pgType.textDecoration.none}"
               },
@@ -1083,7 +1083,7 @@
               "fontSize": "{dimension.typescale.label.lg}",
               "letterSpacing": "{pgType.letterSpacing.4}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -1097,7 +1097,7 @@
               "fontSize": "{dimension.typescale.label.md}",
               "letterSpacing": "{pgType.letterSpacing.5}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -1111,7 +1111,7 @@
               "fontSize": "{dimension.typescale.label.sm}",
               "letterSpacing": "{pgType.letterSpacing.4}",
               "paragraphSpacing": "{pgType.paragraphSpacing.0}",
-              "paragraphIndent": "{paragraphIndent.0}",
+              "paragraphIndent": "{dimension.px.0}",
               "textCase": "{pgType.textCase.none}",
               "textDecoration": "{pgType.textDecoration.none}"
             },
@@ -1158,7 +1158,7 @@
       "primary": {
         "button-outline-sm": {
           "value": {
-            "color": "{h4-colors.primary.shade}",
+            "color": "{color.semantic.dark.tint}",
             "width": "1",
             "style": "solid"
           },
@@ -1166,7 +1166,7 @@
         },
         "button-outline-md": {
           "value": {
-            "color": "{h4-colors.primary.shade}",
+            "color": "{color.semantic.dark.tint}",
             "width": "2",
             "style": "solid"
           },
