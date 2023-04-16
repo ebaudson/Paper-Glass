@@ -1,179 +1,7 @@
 {
   "pgCore": {
-    "color": {
-      "semantic": {
-        "primary": {
-          "tintBG": {
-            "value": "{color.core.purple.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.purple.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.purple.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.purple.70}",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "tintBG": {
-            "value": "{color.core.aqua.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.aqua.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.aqua.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.aqua.70}",
-            "type": "color"
-          }
-        },
-        "tertiary": {
-          "tintBG": {
-            "value": "{color.core.blue.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.blue.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.blue.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.blue.70}",
-            "type": "color"
-          }
-        },
-        "success": {
-          "tintBG": {
-            "value": "{color.core.green.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.green.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.green.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.green.70}",
-            "type": "color"
-          }
-        },
-        "danger": {
-          "tintBG": {
-            "value": "{color.core.red.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.red.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.red.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.red.70}",
-            "type": "color"
-          }
-        },
-        "warning": {
-          "tintBG": {
-            "value": "{color.core.yellow.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.yellow.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.yellow.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.yellow.70}",
-            "type": "color"
-          }
-        },
-        "dark": {
-          "tintBG": {
-            "value": "{color.core.dark.10}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.dark.40}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.dark.60}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.dark.80}",
-            "type": "color"
-          }
-        },
-        "light": {
-          "tintBG": {
-            "value": "{color.core.light.00}",
-            "type": "color"
-          },
-          "tint": {
-            "value": "{color.core.light.20}",
-            "type": "color"
-          },
-          "base": {
-            "value": "{color.core.light.50}",
-            "type": "color"
-          },
-          "shade": {
-            "value": "{color.core.light.70}",
-            "type": "color"
-          }
-        },
-        "gradients": {
-          "primary": {
-            "value": "linear-gradient(90deg, {color.core.orange.30} 0%, {color.core.orange.50} 100%)",
-            "type": "color"
-          },
-          "secondary": {
-            "value": "linear-gradient(90deg, #1796b8 0%, #30c2cc 100%)",
-            "type": "color"
-          },
-          "tertiary": {
-            "value": "linear-gradient(90deg, #1c476e 0%, #43779a 100%)",
-            "type": "color"
-          },
-          "success": {
-            "value": "linear-gradient(90deg, #458360 0%, #28c76f 100%)",
-            "type": "color"
-          },
-          "alert": {
-            "value": "linear-gradient(90deg, #d19627 0%, #ffbd43 100%)",
-            "type": "color"
-          },
-          "danger": {
-            "value": "linear-gradient(90deg, #af2627 0%, #ea5455 100%)",
-            "type": "color"
-          }
-        }
-      },
-      "core": {
+    "core": {
+      "color": {
         "dark": {
           "10": {
             "value": "#dcdcdc",
@@ -682,6 +510,180 @@
         }
       }
     },
+    "system": {
+      "color": {
+        "primary": {
+          "tintBG": {
+            "value": "{core.color.purple.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.purple.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.purple.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.purple.70}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "tintBG": {
+            "value": "{core.color.aqua.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.aqua.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.aqua.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.aqua.70}",
+            "type": "color"
+          }
+        },
+        "tertiary": {
+          "tintBG": {
+            "value": "{core.color.blue.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.blue.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.blue.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.blue.70}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "tintBG": {
+            "value": "{core.color.green.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.green.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.green.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.green.70}",
+            "type": "color"
+          }
+        },
+        "danger": {
+          "tintBG": {
+            "value": "{core.color.red.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.red.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.red.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.red.70}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "tintBG": {
+            "value": "{core.color.yellow.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.yellow.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.yellow.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.yellow.70}",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "tintBG": {
+            "value": "{core.color.dark.10}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.dark.40}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.dark.60}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.dark.80}",
+            "type": "color"
+          }
+        },
+        "light": {
+          "tintBG": {
+            "value": "{core.color.light.00}",
+            "type": "color"
+          },
+          "tint": {
+            "value": "{core.color.light.20}",
+            "type": "color"
+          },
+          "base": {
+            "value": "{core.color.light.50}",
+            "type": "color"
+          },
+          "shade": {
+            "value": "{core.color.light.70}",
+            "type": "color"
+          }
+        },
+        "gradients": {
+          "primary": {
+            "value": "linear-gradient(90deg, {core.color.orange.30} 0%, {core.color.orange.50} 100%)",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "linear-gradient(90deg, #1796b8 0%, #30c2cc 100%)",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "linear-gradient(90deg, #1c476e 0%, #43779a 100%)",
+            "type": "color"
+          },
+          "success": {
+            "value": "linear-gradient(90deg, #458360 0%, #28c76f 100%)",
+            "type": "color"
+          },
+          "alert": {
+            "value": "linear-gradient(90deg, #d19627 0%, #ffbd43 100%)",
+            "type": "color"
+          },
+          "danger": {
+            "value": "linear-gradient(90deg, #af2627 0%, #ea5455 100%)",
+            "type": "color"
+          }
+        }
+      }
+    },
     "pgType": {
       "lineHeight": {
         "0": {
@@ -1158,7 +1160,7 @@
       "primary": {
         "button-outline-sm": {
           "value": {
-            "color": "{color.semantic.dark.tint}",
+            "color": "{system.color.dark.tint}",
             "width": "1",
             "style": "solid"
           },
@@ -1166,7 +1168,7 @@
         },
         "button-outline-md": {
           "value": {
-            "color": "{color.semantic.dark.tint}",
+            "color": "{system.color.dark.tint}",
             "width": "2",
             "style": "solid"
           },
@@ -1357,14 +1359,6 @@
             "value": "2.281rem",
             "type": "dimension"
           }
-        }
-      }
-    },
-    "$metadata": {
-      "tokenSetOrder": {
-        "0": {
-          "value": "H4.Global",
-          "type": "other"
         }
       }
     },
